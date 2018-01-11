@@ -80,7 +80,7 @@ def adding_matz
           :languages => ["C"]
         }
     }
-  programmer_hash[metis] = "katz"
+  programmer_hash[metis] = ["katz", "fandis"]
   programmer_hash
 
 end
