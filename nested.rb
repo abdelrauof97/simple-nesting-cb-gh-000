@@ -81,6 +81,7 @@ def adding_matz
         }
     }
   programmer_hash[metis] = "katz"
+  programmer_hash
 
 end
 
