@@ -80,7 +80,7 @@ def adding_matz
           :languages => ["C"]
         }
     }
-  programmer_hash[:mac] = {jac: "tac", ca: ["ca", "ma"]}
+  programmer_hash[:yukihiro_matsumoto] = {jac: "tac", ca: ["ca", "ma"]}
   programmer_hash
 
 end
